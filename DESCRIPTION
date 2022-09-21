@@ -1,0 +1,13 @@
+Package: phasor
+Type: Package
+Title: Calculate Phasors
+Version: 0.1.1
+Date: 2022-09-18
+Author: Celefor
+Maintainer: Celefor<celefor@outlook.com>
+Description: This package is used to calculate phasors in electronical circuit analysis.
+License: GPL-3
+encoding: UTF-8
+RoxygenNote: 7.2.1
+NeedsCompilation: no
+Packaged: 2022-09-19 07:04:25 UTC; dulro
